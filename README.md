@@ -1,4 +1,3 @@
-<!-- BLOG-POST-LIST:START -->
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="200"/>
 </div>
@@ -21,4 +20,3 @@
 - :woman_student: I'm currently pursuing Bachelors of Technology at Guru Gobind Singh Indraprastha University.
 - :computer: I'm currently learning Python.
 - :information_desk_person: Pronouns: She/Her
-<!-- BLOG-POST-LIST:END -->
