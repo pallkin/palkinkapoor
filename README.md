@@ -14,6 +14,7 @@
   <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="600" height="400"/>
 </div>
 ---
+
 ### :woman_technologist:
 - :woman_student: I'm currently pursuing Bachelors of Technology at Guru Gobind Singh Indraprastha University.
 - :computer: I'm currently learning Python.
