@@ -1,4 +1,9 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="200"/>
 </div>
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+<div id="badges">
+  <a href="<div id="badges">
+  <a href="www.linkedin.com/in/palkinkapoor05">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
