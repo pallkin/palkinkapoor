@@ -20,5 +20,3 @@
 - :woman_student: I'm currently pursuing Bachelors of Technology at Guru Gobind Singh Indraprastha University.
 - :computer: I'm currently learning Python.
 - :information_desk_person: Pronouns: She/Her
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
